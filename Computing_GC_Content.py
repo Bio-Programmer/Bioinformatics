@@ -1,5 +1,5 @@
 #Sophia Longo
-#Created: July 14, 2017, Compelted: July 15, 2017
+#Created: July 14, 2017, Completed: July 15, 2017
 #Title: Rosalind: Computing GC Content
 
 def percentGC(aSeq): #calculates percent GC of a given sequence
